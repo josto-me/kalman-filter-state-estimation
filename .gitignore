@@ -1,0 +1,33 @@
+# Simulink / MATLAB build and cache output
+slprj/
+*.slxc
+*.mexw64
+*.mexa64
+*.mexmaci64
+*_sfun.*
+*.asv
+*.autosave
+*.slx.r20*
+*.original
+# CasADi binaries (install separately, see README)
+casadi-*/
+# LaTeX build output
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.spl
+*.toc
+report/latex/main.pdf
+# OS
+Thumbs.db
+~$*
+
+# Report sources and models are kept out of the public repo
+report/latex/
+simulink/
+*.tex
+*.tikz
+*.slx

@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use or change this work, please cite it as below."
+title: "Kalman Filter State Estimation: KF, EKF, UKF and Moving Horizon Estimation"
+type: software
+authors:
+  - family-names: Stockhammer
+    given-names: Johannes
+    orcid: "https://orcid.org/0009-0008-4263-5369"
+repository-code: "https://github.com/josto-me/kalman-filter-state-estimation"
+url: "https://josto.me"
+license:
+  - Apache-2.0
+  - CC-BY-4.0
+keywords:
+  - Kalman filter
+  - Extended Kalman filter
+  - Unscented Kalman filter
+  - Moving horizon estimation
+  - Temperature Control Lab
+  - MATLAB
+  - Simulink
+  - CasADi
+preferred-citation:
+  type: report
+  title: "State Estimation with Kalman Filter and Moving Horizon Estimation on the Temperature Control Lab"
+  authors:
+    - family-names: Stockhammer
+      given-names: Johannes
+      orcid: "https://orcid.org/0009-0008-4263-5369"
+  institution:
+    name: "Otto-von-Guericke University Magdeburg"
+    city: Magdeburg
+    country: DE
+  department: "Laboratory for Systems Theory and Automatic Control"
+  year: 2026
+  doi: "10.5281/zenodo.22984395"
+  notes: "Course project report, revised edition. Not peer reviewed."
+  url: "https://doi.org/10.5281/zenodo.22984395"
