@@ -1,6 +1,6 @@
 # Kalman Filter State Estimation
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22984395-blue.svg)](https://doi.org/10.5281/zenodo.22984395) [![Code: Apache-2.0](https://img.shields.io/badge/code-Apache--2.0-blue.svg)](LICENSE) [![Report & data: CC BY 4.0](https://img.shields.io/badge/report%20%26%20data-CC%20BY%204.0-lightgrey.svg)](LICENSE-CC-BY-4.0.txt) [![Cite](https://img.shields.io/badge/cite-CITATION.cff-green.svg)](CITATION.cff)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22984394-blue.svg)](https://doi.org/10.5281/zenodo.22984394) [![Code: Apache-2.0](https://img.shields.io/badge/code-Apache--2.0-blue.svg)](LICENSE) [![Report & data: CC BY 4.0](https://img.shields.io/badge/report%20%26%20data-CC%20BY%204.0-lightgrey.svg)](LICENSE-CC-BY-4.0.txt) [![Cite](https://img.shields.io/badge/cite-CITATION.cff-green.svg)](CITATION.cff)
 
 Zustandsschätzung mit Kalman-Filtern und Moving Horizon Estimation am Temperature Control Lab (Studienprojekt, OVGU Magdeburg).
 
